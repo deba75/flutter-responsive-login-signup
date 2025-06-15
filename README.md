@@ -16,10 +16,9 @@ A modern, responsive login and signup UI built with Flutter. This project showca
   <tr>
     <td>Login Screen</td>
     <td>Signup Screen</td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Screenshot 2025-06-15 121747.png" alt="Login Screen" width="400"/></td>
-    <td><img src="screenshots/Screenshot 2025-06-15 121820.png" alt="Signup Screen" width="400"/></td>
+  </tr>  <tr>
+    <td><img src="screenshots/login_screen.png" alt="Login Screen" width="400"/></td>
+    <td><img src="screenshots/signup_screen.png" alt="Signup Screen" width="400"/></td>
   </tr>
 </table>
 
